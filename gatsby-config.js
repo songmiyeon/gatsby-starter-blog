@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `TCC Feb Workshop`,
+    title: `TCC Feb 10 Workshop`,
     author: {
       name: `Skyler Yeon`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and works in Taiwan building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
